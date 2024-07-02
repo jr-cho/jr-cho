@@ -6,7 +6,7 @@
 I'm a **Python Enthusiast** passionate about solving problems and building efficient, scalable applications. I enjoy exploring various domains such as data science, back-end development, and cyber security. I publish a lot of my projects on my YouTube channel "[Jericho](https://www.youtube.com/channel/UCRNCgtlNqoQ4Tn6aHx5t6VA)".
 
 <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+      <a href="https://www.youtube.com/c/UCRNCgtlNqoQ4Tn6aHx5t6VA?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCRNCgtlNqoQ4Tn6aHx5t6VA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/UCRNCgtlNqoQ4Tn6aHx5t6VA">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCRNCgtlNqoQ4Tn6aHx5t6VA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
