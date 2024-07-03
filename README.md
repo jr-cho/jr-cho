@@ -25,3 +25,14 @@ I'm a **Python Enthusiast** passionate about solving problems and building effic
 
 ### ⚡ Stats
 ![jericho1611's Stats](https://github-readme-stats.vercel.app/api?username=jericho1611&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
+
+#
+
+### 📸 Videos
+
+
+#
+
+### 🚗 Roadmap
+
+#
