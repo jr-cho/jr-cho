@@ -19,7 +19,7 @@ I'm a **Python Enthusiast** passionate about solving problems and building effic
 ---
 
 ### 🧰 Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=py,c,html,css,sass,js,docker,git,nodejs,npm,linux,raspberrypi)
+![My Skills](https://skillicons.dev/icons?i=py,c,html,css,sass,js,ts,docker,git,nodejs,npm,linux,raspberrypi)
 
 #
 
