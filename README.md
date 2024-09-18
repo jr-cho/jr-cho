@@ -1,9 +1,9 @@
-# 🐍 Joshua Gottus
+# 🦀 Joshua Gottus
 
 **`Computer Science Student (Florida Polytechic University)`**
 
 
-I'm a **Python Enthusiast** passionate about solving problems and building efficient, scalable applications. I enjoy exploring various domains such as data science, back-end development, and cyber security. I publish a lot of my projects on my YouTube channel "[Jericho](https://www.youtube.com/channel/UCRNCgtlNqoQ4Tn6aHx5t6VA)".
+I'm a **Rust Enthusiast** passionate about solving problems and building efficient, scalable applications. I enjoy exploring various domains such as data science, back-end development, and cyber security. I publish a lot of my projects on my YouTube channel "[Jericho](https://www.youtube.com/channel/UCRNCgtlNqoQ4Tn6aHx5t6VA)".
 
 <p align="left">
       <a href="https://www.youtube.com/channel/UCRNCgtlNqoQ4Tn6aHx5t6VA?sub_confirmation=1">
