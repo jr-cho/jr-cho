@@ -19,7 +19,7 @@ I'm a **Rust Enthusiast** passionate about solving problems and building efficie
 ---
 
 ### 🧰 Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=py,c,html,css,sass,js,rust,cpp,docker,git,nodejs,npm,linux,raspberrypi)
+![My Skills](https://skillicons.dev/icons?i=rust,py,cpp,docker,git,linux)
 
 #
 
