@@ -1,9 +1,8 @@
-# 🦀 Joshua Gottus
+# 🚀 Joshua Gottus
 
 **`Computer Science Student (Florida Polytechic University)`**
 
-
-I'm a **Rust Enthusiast** passionate about solving problems and building efficient, scalable applications. I enjoy building, managing, and securing servers using Rust's performance and safety alongside Python's flexibility. I publish a lot of my projects on my YouTube channel "[Jericho](https://www.youtube.com/channel/UCRNCgtlNqoQ4Tn6aHx5t6VA)".
+I'm a **Low-Level Programming Enthusiast** passionate about solving problems and building efficient, scalable applications. I enjoy designing and optimizing **data structures** in **C and C++**, as well as managing and securing servers. I publish a lot of my projects on my YouTube channel "[Jericho](https://www.youtube.com/channel/UCRNCgtlNqoQ4Tn6aHx5t6VA)".
 
 <!---
 <p align="left">
