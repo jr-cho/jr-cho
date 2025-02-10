@@ -19,7 +19,7 @@ I'm a **Low-Level Programming Enthusiast** passionate about solving problems and
 ---
 
 ### 🧰 Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=rust,py,cpp,docker,git,linux)
+![My Skills](https://skillicons.dev/icons?i=rust,py,cpp,c,docker,git,linux)
 
 #
 
