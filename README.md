@@ -2,7 +2,16 @@
 
 **`Computer Science Student (Florida Polytechic University)`**
 
-I'm a **Low-Level Programming Enthusiast** passionate about solving problems and building efficient, scalable applications. I enjoy designing and optimizing **data structures** in **C and C++**, as well as managing and securing servers. I publish a lot of my projects on my YouTube channel "[Jericho](https://www.youtube.com/channel/UCRNCgtlNqoQ4Tn6aHx5t6VA)".
+I'm a **Low-Level Programming Enthusiast** focused on building secure, efficient, and scalable systems.  
+I enjoy writing custom scripts in `C, Rust, Bash, and Python` to automate and protect servers, and I love working close to the metal — whether it's optimizing **data structures**, scripting infrastructure, or securing Linux-based environments.
+
+🪐 **Currently exploring:**  
+• Server automation & scripting  
+• Cyber defense systems  
+• Infrastructure as code  
+• Rust for secure low-level programming
+
+I publish some of my projects and experiments on my [YouTube channel – Jericho](https://www.youtube.com/channel/UCRNCgtlNqoQ4Tn6aHx5t6VA)
 
 <!---
 <p align="left">
