@@ -25,13 +25,9 @@ I enjoy writing custom scripts in C, Rust, Bash, and Python to automate and prot
 <!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jr-cho&layout=compact&theme=dracula&hide_border=true)
 
-<!-- GitHub Contribution Calendar -->
-![Joshua's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jr-cho&layout=compact&theme=dracula&hide_border=true)
-
 
 ## 🛰 Proud Repros
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr-cho&repo=YOUR_REPO_NAME&theme=dracula)](https://github.com/jr-cho/YOUR_REPO_NAME)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr-cho&repo=README-Generator-in-Rust&theme=dracula)](https://github.com/jr-cho/README-Generator-in-Rust)
 
 ---
 
