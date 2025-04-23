@@ -1,47 +1,71 @@
+<!-- Profile Header -->
 # 🚀 Joshua Gottus
 
-**`Computer Science Student (Florida Polytechic University)`**
+<!-- Profile About Me -->
+`Computer Science Student | Florida Polytechnic University`
 
-I'm a **Low-Level Programming Enthusiast** focused on building secure, efficient, and scalable systems.  
-I enjoy writing custom scripts in `C, Rust, Bash, and Python` to automate and protect servers, and I love working close to the metal — whether it's optimizing **data structures**, scripting infrastructure, or securing Linux-based environments.
+I'm a Low-Level Programming Enthusiast focused on building secure, efficient, and scalable systems.
+I enjoy writing custom scripts in C, Rust, Bash, and Python to automate and protect servers, and I love working close to the metal — whether it's optimizing data structures, scripting infrastructure, or securing Linux-based environments.
 
-🪐 **Currently exploring:**  
-• Server automation & scripting  
-• Cyber defense systems  
-• Infrastructure as code  
-• Rust for secure low-level programming
+🪐 Currently exploring:
+- Server automation & scripting
+- Cyber defense systems
+- Rust for secure low-level programming
 
-I publish some of my projects and experiments on my [YouTube channel – Jericho](https://www.youtube.com/channel/UCRNCgtlNqoQ4Tn6aHx5t6VA)
-
-<!---
-<p align="left">
-      <a href="https://www.youtube.com/channel/UCRNCgtlNqoQ4Tn6aHx5t6VA?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCRNCgtlNqoQ4Tn6aHx5t6VA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/channel/UCRNCgtlNqoQ4Tn6aHx5t6VA">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCRNCgtlNqoQ4Tn6aHx5t6VA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/jr-cho?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jr-cho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/jr-cho?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jr-cho?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
---->
 ---
 
-### 🧰 Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=c,cpp,py,rust,java,linux,git,docker)
+## 🚀 Tech Stack
 
-#
+![My Skills](https://skillicons.dev/icons?i=c,cpp,py,rust,bash,linux,git,docker)
 
-### ⚡ Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jr-cho&layout=compact&theme=tokyonight)
+<br />
 
-#
+## 🔭 Statistics
 
-### 📸 Videos
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jr-cho&layout=compact&theme=dracula&hide_border=true)
+
+<!-- GitHub Contribution Calendar -->
+![Joshua's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jr-cho&layout=compact&theme=dracula&hide_border=true)
 
 
-#
+## 🛰 Proud Repros
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr-cho&repo=YOUR_REPO_NAME&theme=dracula)](https://github.com/jr-cho/YOUR_REPO_NAME)
 
-### 🚗 Roadmap
 
-#
+---
+
+<!-- Profile Header 
+## 🎬 Videos
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=nfVyShhx-0I" target="_blank">
+        <img src="https://img.youtube.com/vi/nfVyShhx-0I/hqdefault.jpg" alt="Video Title 1" width="300"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=B0WCwFC" target="_blank">
+        <img src="https://img.youtube.com/vi/B0WCwFC/hqdefault.jpg" alt="Video Title 2" width="300"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=VIDEO_ID_3" target="_blank">
+        <img src="https://img.youtube.com/vi/VIDEO_ID_3/hqdefault.jpg" alt="Video Title 3" width="300"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=VIDEO_ID_4" target="_blank">
+        <img src="https://img.youtube.com/vi/VIDEO_ID_4/hqdefault.jpg" alt="Video Title 4" width="300"/>
+      </a>
+    </td>
+  </tr>
+</table>
+-->
+
+<div align="center">
+
+</div>
