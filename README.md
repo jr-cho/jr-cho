@@ -18,7 +18,6 @@ I enjoy writing custom scripts in C, Rust, Bash, and Python to automate and prot
 
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,py,rust,bash,linux,git,docker)
 
-<br />
 
 ## 🔭 Statistics
 
