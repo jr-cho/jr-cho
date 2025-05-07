@@ -1,34 +1,40 @@
 <!-- Profile Header -->
-# 🚀 Joshua Gottus
+# 🛡️ Joshua Gottus
 
 <!-- Profile About Me -->
-`Computer Science Student | Florida Polytechnic University`
+`Cybersecurity & Embedded Rust Enthusiast | Florida Polytechnic CS`
 
-I'm a Low-Level Programming Enthusiast focused on building secure, efficient, and scalable systems.
-I enjoy writing custom scripts in C, Rust, Bash, and Python to automate and protect servers, and I love working close to the metal — whether it's optimizing data structures, scripting infrastructure, or securing Linux-based environments.
+I specialize in building **secure, efficient, low-level systems** that bridge the gap between hardware and software.  
+From microcontrollers to Linux servers, I'm focused on **Rust-powered automation**, **system scripting**, and **defensive computing**.
+
+🔐 Security-conscious. ⚙️ Hardware-aware. 🧠 Memory-safe.
 
 🪐 Currently exploring:
-- Server automation & scripting
-- Cyber defense systems
-- Rust for secure low-level programming
+- Embedded systems development in Rust (`no_std`)
+- System-level scripting with Bash & Python
+- Automation for secure Linux environments
+- Firmware design with a cybersecurity mindset
 
 ---
 
-## 🚀 Tech Stack
+## 🪐 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,py,rust,bash,linux,git,docker)
-
-
-## 🔭 Statistics
-
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jr-cho&layout=compact&theme=dracula&hide_border=true)
+#### 🛸 Core Languages 
+![Rust](https://skillicons.dev/icons?i=rust) ![C](https://skillicons.dev/icons?i=c) ![Cpp](https://skillicons.dev/icons?i=cpp)  
 
 
-## 🛰 Proud Repros
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr-cho&repo=README-Generator-in-Rust&theme=dracula)](https://github.com/jr-cho/README-Generator-in-Rust)
+#### 🛰️ Systems & Scripting 
+![Bash](https://skillicons.dev/icons?i=bash) ![Python](https://skillicons.dev/icons?i=py)  
 
----
+#### 🌌 Platforms & Tools  
+![Linux](https://skillicons.dev/icons?i=linux) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git)  
+
+#### 🔭 Embedded & Security Toolkit
+`probe-rs` • `cargo-embed` • `openocd` • `gdb`  
+`uf2conv` • `nmap` • `wireshark` • `tmux` • `neovim`  
+
+🔐 *Operating at the edge of hardware and defense—precision-coded, mission-secure.*
+
 
 <!-- Profile Header 
 ## 🎬 Videos
