@@ -20,7 +20,7 @@ From microcontrollers to Linux servers, I'm focused on **Rust-powered automation
 ## 🪐 Tech Stack
 
 #### 🛸 Core Languages 
-![Rust](https://skillicons.dev/icons?i=rust) ![C](https://skillicons.dev/icons?i=c) ![Cpp](https://skillicons.dev/icons?i=cpp)  
+![Rust](https://skillicons.dev/icons?i=rust) ![Python](https://skillicons.dev/icons?i=py) ![C](https://skillicons.dev/icons?i=c) ![Cpp](https://skillicons.dev/icons?i=cpp)  
 
 
 #### 🛰️ Systems & Scripting 
