@@ -2,7 +2,7 @@
 # 🛡️ Joshua Gottus
 
 <!-- Profile About Me -->
-`Cybersecurity & Embedded Rust Enthusiast | Florida Polytechnic CS`
+`Cybersecurity & Embedded Systems | Florida Polytechnic CS`
 
 I specialize in building **secure, efficient, low-level systems** that bridge the gap between hardware and software.  
 From microcontrollers to Linux servers, I'm focused on **Rust-powered automation**, **system scripting**, and **defensive computing**.
