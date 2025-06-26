@@ -7,8 +7,6 @@
 I specialize in building **secure, efficient, low-level systems** that bridge the gap between hardware and software.  
 From microcontrollers to Linux servers, I'm focused on **Rust-powered automation**, **system scripting**, and **defensive computing**.
 
-🔐 Security-conscious. ⚙️ Hardware-aware. 🧠 Memory-safe.
-
 🪐 Currently exploring:
 - Embedded systems development in Rust (`no_std`)
 - System-level scripting with Bash & Python
