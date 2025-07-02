@@ -39,11 +39,11 @@ I design and build both **physical and virtual server systems**, develop **robus
         <img src="https://img.youtube.com/vi/-IY5ygcyC5w/hqdefault.jpg" alt="CMAN Walkthrough" width="300"/>
       </a>
     </td>
-    <td>
+<!--     <td>
       <a href="https://www.youtube.com/watch?v=VIDEO_ID_2" target="_blank">
         <img src="https://img.youtube.com/vi/VIDEO_ID_2/hqdefault.jpg" alt="Rust Automation System" width="300"/>
       </a>
-    </td>
+    </td> -->
   </tr>
 </table>
 
