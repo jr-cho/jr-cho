@@ -35,7 +35,7 @@ I design and build both **physical and virtual server systems**, develop **robus
 <table>
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=VIDEO_ID_1" target="_blank">
+      <a href="https://youtu.be/-IY5ygcyC5w" target="_blank">
         <img src="https://img.youtube.com/vi/VIDEO_ID_1/hqdefault.jpg" alt="CMAN Walkthrough" width="300"/>
       </a>
     </td>
