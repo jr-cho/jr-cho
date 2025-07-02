@@ -36,7 +36,7 @@ I design and build both **physical and virtual server systems**, develop **robus
   <tr>
     <td>
       <a href="https://youtu.be/-IY5ygcyC5w" target="_blank">
-        <img src="https://img.youtube.com/vi/VIDEO_ID_1/hqdefault.jpg" alt="CMAN Walkthrough" width="300"/>
+        <img src="https://img.youtube.com/vi/-IY5ygcyC5w/hqdefault.jpg" alt="CMAN Walkthrough" width="300"/>
       </a>
     </td>
     <td>
