@@ -15,7 +15,7 @@ I design and build both **physical and virtual server systems**, develop **robus
 ## Tech Stack
 
 ### Core Languages  
-![Rust](https://skillicons.dev/icons?i=rust) ![Python](https://skillicons.dev/icons?i=py) ![C](https://skillicons.dev/icons?i=c) ![Cpp](https://skillicons.dev/icons?i=cpp) ![Js](https://skillicons.dev/icons?i=js) ![Ts](https://skillicons.dev/icons?i=ts)
+![Rust](https://skillicons.dev/icons?i=rust) ![Python](https://skillicons.dev/icons?i=py) ![C](https://skillicons.dev/icons?i=c) ![Cpp](https://skillicons.dev/icons?i=cpp) ![Js](https://skillicons.dev/icons?i=js)
 
 ### Systems, Infrastructure & Scripting  
 ![Bash](https://skillicons.dev/icons?i=bash) ![Linux](https://skillicons.dev/icons?i=linux) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git)
