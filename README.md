@@ -1,7 +1,9 @@
 # 👾 Joshua Gottus
 `Systems Architect · Backend Engineer | Florida Polytechnic · Computer Science`
 
-I design and build both **physical and virtual server systems**, develop **robust backend APIs**, and automate infrastructure using **Rust, Python, C, Bash**, and **Express.js**. My projects are hardware and software based systems that are efficient, scalable, and secure.
+> Bridging technology with physical infrastructure
+
+I design and build both **physical and virtual server systems**, develop **backend APIs**, and automate infrastructure using **Rust, Python, C, Bash**, and **Express.js**. My projects are hardware and software based systems that are efficient, scalable, and secure.
 
 **Key Areas of Focus:**
 - Physical and virtual server design (bare metal, Linux, containers)
@@ -21,11 +23,11 @@ I design and build both **physical and virtual server systems**, develop **robus
 ![Bash](https://skillicons.dev/icons?i=bash) ![Linux](https://skillicons.dev/icons?i=linux) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git)
 
 ### Backend & Automation Tools  
-`Express.js` • `Node.js` • `systemd` • `cron` • `tmux`  
+`Express.js` • `Node.js` • `cron` • `tmux`  
 `REST APIs` • `MySQL`
 
 ### Embedded & Security Toolkit  
-`probe-rs` • `cargo-embed` • `gdb`  
+ `cargo-embed` • `gdb`  
 `nmap` • `wireshark` • `neovim`
 
 ---
@@ -46,9 +48,3 @@ I design and build both **physical and virtual server systems**, develop **robus
     </td> -->
   </tr>
 </table>
-
-> From the server rack to the API endpoint — I build efficient systems that prioritize automation, security, and reliability.
-
-<div align="center">
-
-</div>
