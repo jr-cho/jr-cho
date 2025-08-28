@@ -1,34 +1,27 @@
 # 👾 Joshua Gottus
-`Systems Architect · Backend Engineer | Florida Polytechnic · Computer Science`
+`Systems Engineer | Florida Polytechnic · Computer Science`
 
-> Bridging technology with physical infrastructure
+![Rust](https://img.shields.io/badge/Rust-1e1e1e?style=for-the-badge&logo=rust&logoColor=C45508)
+![C](https://img.shields.io/badge/C-1e1e1e?style=for-the-badge&logo=c&logoColor=00599C)
+![Bash](https://img.shields.io/badge/Bash-1e1e1e?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
+![Docker](https://img.shields.io/badge/Docker-1e1e1e?style=for-the-badge&logo=docker&logoColor=2496ED)
 
-I design and build both **physical and virtual server systems**, develop **backend APIs**, and automate infrastructure using **Rust, Python, C, Bash**, and **Express.js**. My projects are hardware and software based systems that are efficient, scalable, and secure.
+---
 
-**Key Areas of Focus:**
-- Physical and virtual server design (bare metal, Linux, containers)
-- Infrastructure automation and provisioning (Bash, Python, Rust)
-- API development with Express.js, C, and Rust
-- Secure scripting and backend systems integration
-- Lightweight frontend integration (UI endpoint-ready)
+## GitHub Contribution Graph
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jr-cho&show_icons=true&theme=radical)
 
 ---
 
 ## Tech Stack
 
-### Core Languages  
-![Rust](https://skillicons.dev/icons?i=rust) ![Python](https://skillicons.dev/icons?i=py) ![C](https://skillicons.dev/icons?i=c) ![Cpp](https://skillicons.dev/icons?i=cpp) ![Js](https://skillicons.dev/icons?i=js)
-
-### Systems, Infrastructure & Scripting  
-![Bash](https://skillicons.dev/icons?i=bash) ![Linux](https://skillicons.dev/icons?i=linux) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git)
-
-### Backend & Automation Tools  
-`Express.js` • `Node.js` • `cron` • `tmux`  
-`REST APIs` • `MySQL`
-
-### Embedded & Security Toolkit  
- `cargo-embed` • `gdb`  
-`nmap` • `wireshark` • `neovim`
+| Languages       | Systems & Infrastructure |
+|-----------------|-------------------------|
+| ![Rust](https://skillicons.dev/icons?i=rust) | ![Linux](https://skillicons.dev/icons?i=linux) |
+| ![Python](https://skillicons.dev/icons?i=py) | ![Bash](https://skillicons.dev/icons?i=bash) |
+| ![C](https://skillicons.dev/icons?i=c)      | ![Docker](https://skillicons.dev/icons?i=docker) |
+| ![Cpp](https://skillicons.dev/icons?i=cpp)  | ![Git](https://skillicons.dev/icons?i=git) |
+| ![JavaScript](https://skillicons.dev/icons?i=js) | |
 
 ---
 
@@ -41,10 +34,11 @@ I design and build both **physical and virtual server systems**, develop **backe
         <img src="https://img.youtube.com/vi/-IY5ygcyC5w/hqdefault.jpg" alt="CMAN Walkthrough" width="300"/>
       </a>
     </td>
-<!--     <td>
-      <a href="https://www.youtube.com/watch?v=VIDEO_ID_2" target="_blank">
-        <img src="https://img.youtube.com/vi/VIDEO_ID_2/hqdefault.jpg" alt="Rust Automation System" width="300"/>
-      </a>
-    </td> -->
   </tr>
 </table>
+
+---
+
+## Connect with Me
+- **LinkedIn**: [linkedin.com/in/joshuagottus](https://linkedin.com/in/jr-cho)  
+- **GitHub**: [github.com/jr-cho](https://github.com/jr-cho)  
