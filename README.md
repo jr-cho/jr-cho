@@ -7,7 +7,12 @@
 ---
 
 ## GitHub Contribution Graph
-![Snake animation](https://github.com/jr-cho/jr-cho/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jr-cho/jr-cho/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jr-cho/jr-cho/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jr-cho/jr-cho/output/github-snake.svg" />
+</picture>
+
 
 ---
 
