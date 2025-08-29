@@ -12,7 +12,11 @@
 ---
 
 ## Tech Stack
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=rust,c,cpp,python,js&tools=docker,git,bash,linux&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+### Languages
+![Languages](https://skillicons.dev/icons?i=rust,c,cpp,python,javascript,bash)
+
+### Tools & Platforms
+![Tools & Platforms](https://skillicons.dev/icons?i=docker,kubernetes,git,linux)
 
 ---
 
