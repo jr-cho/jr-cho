@@ -13,7 +13,7 @@
 
 ## Tech Stack
 ### Languages
-![Languages](https://skillicons.dev/icons?i=rust,c,cpp,python,javascript,bash)
+![Languages](https://skillicons.dev/icons?i=c,rust,bash,cpp,python,javascript)
 
 ### Tools & Platforms
 ![Tools & Platforms](https://skillicons.dev/icons?i=docker,kubernetes,git,linux)
