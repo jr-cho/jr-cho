@@ -20,20 +20,6 @@
 
 ---
 
-## Featured Project Videos
-
-<table>
-  <tr>
-    <td>
-      <a href="https://youtu.be/-IY5ygcyC5w" target="_blank">
-        <img src="https://img.youtube.com/vi/-IY5ygcyC5w/hqdefault.jpg" alt="CMAN Walkthrough" width="300"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## Connect with Me
 - **LinkedIn**: [linkedin.com/in/jr-cho](https://linkedin.com/in/jr-cho)  
 - **GitHub**: [github.com/jr-cho](https://github.com/jr-cho)  
