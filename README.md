@@ -2,7 +2,7 @@
 `Systems Engineer | Florida Polytechnic · Computer Science`
 
 ![C](https://img.shields.io/badge/C-1e1e1e?style=for-the-badge&logo=c&logoColor=00599C)
-![Python](https://img.shields.io/badge/Rust-1e1e1e?style=for-the-badge&logo=python&logoColor=3776ab)
+![Python](https://img.shields.io/badge/Python-1e1e1e?style=for-the-badge&logo=python&logoColor=3776ab)
 
 ---
 
@@ -13,7 +13,7 @@
 
 ## Tech Stack
 ### Languages
-![Languages](https://skillicons.dev/icons?i=c,rust,bash,cpp,python,javascript)
+![Languages](https://skillicons.dev/icons?i=c,cpp,python,bash,javascript,rust)
 
 ### Tools & Platforms
 ![Tools & Platforms](https://skillicons.dev/icons?i=docker,kubernetes,git,linux)
