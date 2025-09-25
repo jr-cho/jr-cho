@@ -2,7 +2,7 @@
 `Systems Engineer | Florida Polytechnic · Computer Science`
 
 ![C](https://img.shields.io/badge/C-1e1e1e?style=for-the-badge&logo=c&logoColor=00599C)
-![Rust](https://img.shields.io/badge/Rust-1e1e1e?style=for-the-badge&logo=rust&logoColor=C45508)
+![Python](https://img.shields.io/badge/Rust-1e1e1e?style=for-the-badge&logo=python&logoColor=3776ab)
 
 ---
 
