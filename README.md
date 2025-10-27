@@ -6,11 +6,6 @@
 
 ---
 
-## GitHub Contribution Graph
-![github contribution grid snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
----
-
 ## Tech Stack
 ### Languages
 ![Languages](https://skillicons.dev/icons?i=c,cpp,python,bash,javascript,rust)
