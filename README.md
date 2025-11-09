@@ -11,7 +11,7 @@
 ![Languages](https://skillicons.dev/icons?i=c,cpp,python,bash,javascript)
 
 ### Tools & Platforms
-![Tools & Platforms](https://skillicons.dev/icons?i=docker,kubernetes,git,linux)
+![Tools & Platforms](https://skillicons.dev/icons?i=docker,kubernetes,git,linux,github)
 
 ---
 
