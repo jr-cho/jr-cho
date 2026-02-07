@@ -14,5 +14,4 @@
 
 ## Connect with Me
 - **LinkedIn**: [linkedin.com/in/jr-cho](https://linkedin.com/in/jr-cho)  
-- **GitHub**: [github.com/jr-cho](https://github.com/jr-cho)
 - **Website**: [jr-cho.github.io](https://jr-cho.github.io)
