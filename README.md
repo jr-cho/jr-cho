@@ -1,6 +1,8 @@
 # 👾 Joshua Gottus
 `Systems Engineer | Florida Polytechnic · Computer Science`
 
+I like Aerospace
+
 ---
 
 ## Tech Stack
